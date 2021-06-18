@@ -1,0 +1,4 @@
+*.jpeg
+dir_to_ignore/test
+dir_to_ignore/train
+dir_to_ignore/val
